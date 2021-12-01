@@ -1,0 +1,64 @@
+p{
+  margin-left: 15.5vh;
+}
+
+b{
+  margin-right:17vh;
+}
+
+h4{
+  margin-top: 30vh;
+  margin-left: 15.5vh;
+}
+
+hr{
+  background-color: gray;
+  width: 40vh;;
+  height: 1.5vh;
+  margin-top: 16vh;
+  margin-left: 15vh;
+}
+
+header{
+  background-color: blue;
+  height: 8.5vh;
+  border:solid 3px black;
+}
+
+body{
+  margin: 0;
+}
+
+.textColor{
+  color: white;
+}
+
+.text-end{
+  text-align: end;
+}
+
+.text-start{
+  text-align: start;
+}
+
+.text-offset{
+  margin-left: 15vh
+}
+
+.d-flex{
+  display: flex;
+}
+
+.left-column{ 
+  width: 45%;
+  margin-left: 18em;
+}
+
+.right-column{
+  width: 29%;
+  margin-right: 20vh;
+}
+
+.center-text{
+  text-align: center;
+}
